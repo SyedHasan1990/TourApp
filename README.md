@@ -1,2 +1,2 @@
 # TourApp
-Power Platform TourApp (Canvas App)
+Power Platform TourApp (Canvas App Wtih AI Builder)
